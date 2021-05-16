@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ci30
 - 👀 I’m interested in ###
 - 🌱 I’m currently learning nlp and machine learnning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on netcore and flutter and cripto programmer 
 - 📫 How to reach me : asghar.mahmoodi69@gmail.com
 
 <!---
